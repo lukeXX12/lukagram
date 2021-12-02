@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262653785349",
+    "project_id": "luk4-gr4m1",
+    "storage_bucket": "luk4-gr4m1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262653785349:android:243dcd570e042b88eeb36c",
+        "android_client_info": {
+          "package_name": "com.example.lukagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262653785349-h5q76erjj1as4jdo5fe2nfm2ga522u27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlIOez-f92qzht999Inp1n8NgYGiFWApY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262653785349-h5q76erjj1as4jdo5fe2nfm2ga522u27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
